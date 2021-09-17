@@ -18,15 +18,15 @@
 
 [##Using Date Changer](#Using-Date-Changer)
 
-[##How to](#How-to)
+[How to](#How-to)
 
-[##All the controls](#All-the-controls)
+[All the controls](#All-the-controls)
 
-[##Console Log](#Console-Log)
+[Console Log](#Console-Log)
 
-[###Commandline](#Commandline)
+[Commandline](#Commandline)
 
-[###About](#About)
+[About](#About)
 
 ![alt text](https://raw.githubusercontent.com/DogFoxX/date-changer/main/main_window.JPG)
 
@@ -110,15 +110,19 @@ Copy the log to clipboard.
 
 Clears the log.
 
-### Commandline
+## Commandline
+
+### Parameters
 
 • date-changer -"path to .exe to load" -date (mm-dd-yyyy)
 
-  ex. date-changer -"C:\exampleApp.exe" -10-01-2021
-  
-  **NOTE** - path to .exe to load needs to be within double quotes.
-  
-  **Date Changer automatically saves Desktop Shortcuts with these commandline parameters based on what is entered.**
+ex. date-changer -"C:\exampleApp.exe" -10-01-2021
+
+### NOTE
+
+path to .exe to load needs to be within double quotes.
+
+**Date Changer automatically saves Desktop Shortcuts with these commandline parameters based on what is entered.**
 
 
 ## About
