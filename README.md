@@ -34,10 +34,10 @@ Change to the preferred date. Format is MM - dd - yyyy.
 • **Auto Reset (Checkbox):**
 Auto reset date after Game/Program is closed.
 
-• ** Friendly name:**
+• **Friendly name:**
 Gives your save, or Desktop Shortcut a name.
 
-• ** Save (Button):**
+• **Save (Button):**
 Saves all parameters entered to an .xml file, and adds a selection to "Select a save" dropdown.
 
 • **Desktop Shortcut (Button)**
