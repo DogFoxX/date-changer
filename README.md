@@ -16,13 +16,13 @@
 
 ## Categories
 
-link:[Using Date Changer](#Using Date Changer)
+link:[Using Date Changer](#Using-Date-Changer)
 
-link:[How to](#How to)
+link:[How to](#How-to)
 
-link:[All the controls](#All the controls)
+link:[All the controls](#All-the-controls)
 
-link:[Console Log](#Console Log displays all needed info about the process)
+link:[Console Log](#Console-Log)
 
 link:[Commandline](#Commandline)
 
@@ -98,7 +98,9 @@ Creates a shortcut with all parameters.
 Start the process.
 
 
-### Console Log displays all needed info about the process
+### Console Log
+• Displays all needed info about the process.
+
 • **Copy Log (Button):**
 
 Copy the log to clipboard.
