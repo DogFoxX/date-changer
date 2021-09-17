@@ -97,5 +97,5 @@ Instead of using CMD or batch files to change the date and run the games, Date C
 Who knows? This application might be applicable with other Games/Programs.
 
 ## Report an issue
-For issue reporting, open a new issue on my GitHub.
+For issue reporting, open a new issue.
 Copy the log for reference.
