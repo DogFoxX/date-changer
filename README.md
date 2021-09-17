@@ -4,14 +4,11 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/DogFoxX/date-changer/blob/main/LICENSE)
 
-## Version
+## Releases
 
 [![GitHub Release](https://img.shields.io/github/v/release/dogfoxx/date-changer)](https://github.com/DogFoxX/date-changer/releases)
 [![Github Release Date](https://img.shields.io/github/release-date/dogfoxx/date-changer)](#)
-
-## All Releases
-
-[![Github All Releases](https://img.shields.io/github/downloads/dogfoxx/date-changer/total.svg?style=flat)](https://github.com/DogFoxX/date-changer/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/dogfoxx/date-changer/total.svg?style=flat)](#)
 
 ## Issues
 [![Issues](https://img.shields.io/github/issues-raw/dogfoxx/date-changer.svg?maxAge=25000)](https://github.com/tterb/Hyde/issues)  
