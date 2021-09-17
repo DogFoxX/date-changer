@@ -16,12 +16,17 @@
 
 ## Categories
 
-[Using Date Changer](#Using Date Changer)
-[How to](#How to)
-[All the controls](#All the controls)
-[Console Log](#Console Log displays all needed info about the process)
-[Commandline](#Commandline)
-[About](#About)
+link:[Using Date Changer](#Using Date Changer)
+
+link:[How to](#How to)
+
+link:[All the controls](#All the controls)
+
+link:[Console Log](#Console Log displays all needed info about the process)
+
+link:[Commandline](#Commandline)
+
+link:[About](#About)
 
 ![alt text](https://raw.githubusercontent.com/DogFoxX/date-changer/main/main_window.JPG)
 
