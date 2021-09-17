@@ -1,7 +1,15 @@
-# date-changer
-A Windows .NET4.7.2 App to change system date and execute Games/Programs. Use case: Star Wars Jedi: Fallen Order
+# Date Changer
 
-[![version](https://img.shields.io/badge/version-0.1alpha-yellow.svg)](https://semver.org)
+## License
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+## Version
+
+![version](https://img.shields.io/badge/version-0.1a-yellow)
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://github.com/DogFoxX/date-changer/releases/tag/v0.1-alpha) 
+
+## A Windows .NET4.7.2 App to change system date and execute Games/Programs. Use case: Star Wars Jedi: Fallen Order
 
 ![alt text](https://raw.githubusercontent.com/DogFoxX/date-changer/main/main_window.JPG)
 
