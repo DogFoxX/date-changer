@@ -7,7 +7,11 @@
 ## Version
 
 ![version](https://img.shields.io/badge/version-0.1a-yellow)
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://github.com/DogFoxX/date-changer/releases/tag/v0.1-alpha) 
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://github.com/DogFoxX/date-changer/releases/tag/v0.1-alpha)
+
+## All Releases
+
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)](https://github.com/DogFoxX/date-changer/releases) 
 
 ## A Windows .NET4.7.2 App to change system date and execute Games/Programs. Use case: Star Wars Jedi: Fallen Order
 
