@@ -97,8 +97,11 @@ Clears the log.
 
 ### Commandline
 
-• date-changer -"<path to .exe to load>" -<date (mm-dd-yyyy)>
-  ex. date-changer.exe -"C:\exampleApp.exe" -10-01-2021
+• date-changer -"path to .exe to load" -date (mm-dd-yyyy)
+
+  ex. date-changer -"C:\exampleApp.exe" -10-01-2021
+  
+  **NOTE** - path to .exe to load needs to be within double quotes.
   
   **Date Changer automatically saves Desktop Shortcuts with these commandline parameters based on what is entered.**
 
