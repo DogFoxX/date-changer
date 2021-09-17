@@ -6,8 +6,7 @@
 
 ## Version
 
-![version](https://img.shields.io/badge/version-0.1a-yellow)
-[![GitHub Release](https://img.shields.io/github/v/release/dogfoxx/date-changer)](https://github.com/DogFoxX/date-changer/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/dogfoxx/date-changer)](https://github.com/DogFoxX/date-changer/releases/tag/v0.1-alpha)
 
 ## All Releases
 
