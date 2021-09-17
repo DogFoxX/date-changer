@@ -7,8 +7,8 @@
 ## Releases
 
 [![GitHub Release](https://img.shields.io/github/v/release/dogfoxx/date-changer)](https://github.com/DogFoxX/date-changer/releases)
-[![Github Release Date](https://img.shields.io/github/release-date/dogfoxx/date-changer)](#)
-[![Github All Releases](https://img.shields.io/github/downloads/dogfoxx/date-changer/total.svg?style=flat)](#)
+[![Github Release Date](https://img.shields.io/github/release-date/dogfoxx/date-changer)]()
+[![Github All Releases](https://img.shields.io/github/downloads/dogfoxx/date-changer/total.svg?style=flat)]()
 
 ## Issues
 [![Issues](https://img.shields.io/github/issues-raw/dogfoxx/date-changer.svg?maxAge=25000)](https://github.com/tterb/Hyde/issues)  
