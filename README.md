@@ -2,12 +2,12 @@
 
 ## License
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/DogFoxX/date-changer/blob/main/LICENSE)
 
 ## Version
 
 ![version](https://img.shields.io/badge/version-0.1a-yellow)
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://github.com/DogFoxX/date-changer/releases/tag/v0.1-alpha)
+[![GitHub Release](https://img.shields.io/github/v/release/dogfoxx/date-changer)](https://github.com/DogFoxX/date-changer/releases/tag/v0.1-alpha)
 
 ## All Releases
 
