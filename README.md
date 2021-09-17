@@ -18,8 +18,6 @@
 
 [Using Date Changer](#Using-Date-Changer)
 
-[How to](#How-to)
-
 [All the controls](#All-the-controls)
 
 [Console Log](#Console-Log)
