@@ -11,6 +11,7 @@
 
 ## All Releases
 
+[![Github All Releases](https://img.shields.io/github/downloads/dogfoxx/releases/total.svg?style=flat)]()  
 [Date Changer Releases](https://github.com/DogFoxX/date-changer/releases "All Releases") 
 
 ## Issues
