@@ -13,6 +13,9 @@
 
 [Date Changer Releases](https://github.com/DogFoxX/date-changer/releases "All Releases") 
 
+## Issues
+[![Issues](https://img.shields.io/github/issues-raw/dogfoxx/date-changer.svg?maxAge=25000)](https://github.com/tterb/Hyde/issues)  
+
 ## A Windows .NET4.7.2 App to change system date and execute Games/Programs. Use case: Star Wars Jedi: Fallen Order
 
 ![alt text](https://raw.githubusercontent.com/DogFoxX/date-changer/main/main_window.JPG)
