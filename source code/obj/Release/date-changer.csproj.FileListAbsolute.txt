@@ -1,0 +1,17 @@
+D:\Documents\Projects\date-changer\date-changer\bin\Release\date-changer.exe.config
+D:\Documents\Projects\date-changer\date-changer\bin\Release\date-changer.exe
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date_changer.Form1.resources
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date_changer.Properties.Resources.resources
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date-changer.csproj.GenerateResource.cache
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date-changer.exe.licenses
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date-changer.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date-changer.exe
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date_changer.HelpForm.resources
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date_changer.OverWriteForm.resources
+D:\Documents\Projects\date-changer\date-changer\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date-changer.csproj.ResolveComReference.cache
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date-changer.csproj.CopyComplete
+D:\Documents\Projects\date-changer\date-changer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\Projects\date-changer\date-changer\obj\Release\date-changer.csproj.Fody.CopyLocal.cache
+D:\Documents\Projects\date-changer\date-changer\bin\Release\Telerik.WinControls.xml
+D:\Documents\Projects\date-changer\date-changer\bin\Release\Telerik.WinControls.UI.xml
