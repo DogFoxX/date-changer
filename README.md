@@ -16,17 +16,17 @@
 
 ## Categories
 
-link:[Using Date Changer](#Using-Date-Changer)
+[##Using Date Changer](#Using-Date-Changer)
 
-link:[How to](#How-to)
+[##How to](#How-to)
 
-link:[All the controls](#All-the-controls)
+[##All the controls](#All-the-controls)
 
-link:[Console Log](#Console-Log)
+[##Console Log](#Console-Log)
 
-link:[Commandline](#Commandline)
+[###Commandline](#Commandline)
 
-link:[About](#About)
+[###About](#About)
 
 ![alt text](https://raw.githubusercontent.com/DogFoxX/date-changer/main/main_window.JPG)
 
