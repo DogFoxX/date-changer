@@ -7,7 +7,7 @@
 ## Version
 
 [![GitHub Release](https://img.shields.io/github/v/release/dogfoxx/date-changer)](https://github.com/DogFoxX/date-changer/releases)
-[![Github Release Date](https://img.shields.io/github/release-date/dogfoxx/date-changer)]
+[![Github Release Date](https://img.shields.io/github/release-date/dogfoxx/date-changer)](#)
 
 ## All Releases
 
