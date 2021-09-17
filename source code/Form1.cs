@@ -150,6 +150,15 @@ namespace date_changer
                 }
             }
 
+            if (dateTimePicker1.Value.Date == DateTime.Today)
+            {
+                resetDate.Enabled = false;
+            }
+            else
+            {
+                resetDate.Enabled = true;
+            }
+
         }
         #endregion
 
@@ -686,7 +695,7 @@ namespace date_changer
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
-            if (dateTimePicker1.Value == DateTime.Today)
+            if (dateTimePicker1.Value.Date == DateTime.Today)
             {
                 resetDate.Enabled = false;
             }
