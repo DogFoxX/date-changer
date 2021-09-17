@@ -102,13 +102,13 @@ Clears the log.
 
 ## About
 
-## Xml Save Files
+### Xml Save Files
 This application creates .xml files in the root of application.
 Everytime the application loads, it will look for any .xml files and load them.
 Make sure to save the application in safe a directory; ie. Desktop not recommended. If using multiple saves, it might bloat your Desktop unnecessarily.
 Editing the .xml files is not recommened.
 
-## Why create this app?
+### Why create this app?
 I created it with the issue of **Star Wars Jedi: Fallen Order** in mind.
 The game may sometimes CTD if the system date weren't changed to either October, November or December.
 Instead of using CMD or batch files to change the date and run the games, Date Changer does this all automatically.
