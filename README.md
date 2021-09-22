@@ -60,12 +60,12 @@ Delete the selected save file.
 
 • **File Location:**
 
-Enter the loacation to the .exe to load.
+Manually enter the location of the .exe to load.
 
 
 • **Browse (Button):**
 
-Browse for an .exe file to load.
+Browse for an .exe to load.
 
 
 • **Set preferred date:**
@@ -90,7 +90,7 @@ Saves all parameters entered to an .xml file, and adds a selection to "Select a 
 
 • **Desktop Shortcut (Button)**
 
-Creates a shortcut with all parameters.
+Creates a desktop shortcut with all parameters.
 
 
 • **Start (Button):**
@@ -114,13 +114,13 @@ Clears the log.
 
 ### Parameters
 
-• date-changer -"path to .exe to load" -date (mm-dd-yyyy)
+• date-changer -"path to .exe" -date (mm-dd-yyyy)
 
 ex. date-changer -"C:\exampleApp.exe" -10-01-2021
 
 ### NOTE
 
-path to .exe to load needs to be within double quotes.
+Patg to .exe needs to be within double quotes.
 
 **Date Changer automatically saves Desktop Shortcuts with these commandline parameters based on what is entered.**
 
@@ -130,7 +130,7 @@ path to .exe to load needs to be within double quotes.
 ### Xml Save Files
 This application creates .xml files in the root of application.
 Everytime the application loads, it will look for any .xml files and load them.
-Make sure to save the application in safe a directory; ie. Desktop not recommended. If using multiple saves, it might bloat your Desktop unnecessarily.
+Make sure to save the application in a safe directory; ie. Desktop not recommended. If using multiple saves, it might bloat your Desktop unnecessarily.
 Editing the .xml files is not recommened.
 
 ### Why create this app?
