@@ -69,7 +69,7 @@
 # Command Line
 ### Parameters
 
-    date-changer -"path to .exe" -date (mm-dd-yyyy)
+`date-changer -"path to .exe" -date (mm-dd-yyyy)`
 
 ex. `date-changer -"C:\exampleApp.exe" -10-01-2021`
 
